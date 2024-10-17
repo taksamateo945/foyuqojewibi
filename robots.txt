@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://foyuqojewibi.pages.dev/sitemap.xml
